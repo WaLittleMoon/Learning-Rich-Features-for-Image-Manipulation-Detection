@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000306.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333234466</flickrid>
+	</source>
+	<owner>
+		<flickrid>XaOS</flickrid>
+		<name>Mike Priddy</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>242</xmin><ymin>82</ymin><xmax>339</xmax><ymax>161</ymax></bndbox></object></annotation>

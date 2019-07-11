@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000802.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338046740</flickrid>
+	</source>
+	<owner>
+		<flickrid>Gare and Kitty</flickrid>
+		<name>Garrett and Kitty Wilkin and Fromtling</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>223</xmin><ymin>71</ymin><xmax>321</xmax><ymax>221</ymax></bndbox></object></annotation>

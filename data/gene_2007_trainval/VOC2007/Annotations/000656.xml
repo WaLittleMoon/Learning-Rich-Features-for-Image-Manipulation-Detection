@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000656.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338143048</flickrid>
+	</source>
+	<owner>
+		<flickrid>brandonjs</flickrid>
+		<name>Brandon Seils</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>348</xmin><ymin>177</ymin><xmax>408</xmax><ymax>207</ymax></bndbox></object></annotation>

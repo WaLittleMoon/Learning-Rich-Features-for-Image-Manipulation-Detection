@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000336.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>340441972</flickrid>
+	</source>
+	<owner>
+		<flickrid>The Dog's Daddy</flickrid>
+		<name>Jerry Gilbert</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>236</xmin><ymin>8</ymin><xmax>277</xmax><ymax>108</ymax></bndbox></object></annotation>

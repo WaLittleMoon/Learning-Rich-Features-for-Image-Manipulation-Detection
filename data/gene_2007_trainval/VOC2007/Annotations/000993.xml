@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000993.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>336846480</flickrid>
+	</source>
+	<owner>
+		<flickrid>Spursgirl</flickrid>
+		<name>Chrissie Cox</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>493</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>211</xmin><ymin>227</ymin><xmax>438</xmax><ymax>434</ymax></bndbox></object></annotation>

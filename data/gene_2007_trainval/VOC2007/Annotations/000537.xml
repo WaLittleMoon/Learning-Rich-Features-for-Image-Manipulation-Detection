@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000537.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>330645054</flickrid>
+	</source>
+	<owner>
+		<flickrid>ddurbin123</flickrid>
+		<name>Dave Durbin</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>444</xmin><ymin>280</ymin><xmax>485</xmax><ymax>380</ymax></bndbox></object></annotation>

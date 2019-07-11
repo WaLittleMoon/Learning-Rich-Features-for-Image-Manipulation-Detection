@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000403.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>324741107</flickrid>
+	</source>
+	<owner>
+		<flickrid>Amy Lloyd</flickrid>
+		<name>Amy Lloyd</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>336</xmin><ymin>183</ymin><xmax>428</xmax><ymax>326</ymax></bndbox></object></annotation>

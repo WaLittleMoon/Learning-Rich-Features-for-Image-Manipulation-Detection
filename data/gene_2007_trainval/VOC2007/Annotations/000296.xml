@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000296.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337635883</flickrid>
+	</source>
+	<owner>
+		<flickrid>Tarps-UK Cornwall</flickrid>
+		<name>John Hurkett</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>348</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>223</xmin><ymin>29</ymin><xmax>305</xmax><ymax>171</ymax></bndbox></object></annotation>

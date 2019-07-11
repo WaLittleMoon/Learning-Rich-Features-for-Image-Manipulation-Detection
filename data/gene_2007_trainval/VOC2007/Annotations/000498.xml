@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000498.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>334605354</flickrid>
+	</source>
+	<owner>
+		<flickrid>kelownabc</flickrid>
+		<name>Mr. and Mrs. T</name>
+	</owner>
+	<size>
+		<width>326</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>69</xmin><ymin>28</ymin><xmax>151</xmax><ymax>62</ymax></bndbox></object></annotation>

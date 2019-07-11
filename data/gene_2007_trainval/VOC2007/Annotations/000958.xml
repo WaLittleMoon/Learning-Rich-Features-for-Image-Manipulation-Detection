@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000958.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>330240376</flickrid>
+	</source>
+	<owner>
+		<flickrid>petpainter77</flickrid>
+		<name>Jennifer (Jen) Zalewski</name>
+	</owner>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>210</xmin><ymin>18</ymin><xmax>302</xmax><ymax>161</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000207.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>333426942</flickrid>
+	</source>
+	<owner>
+		<flickrid>ambrecaye</flickrid>
+		<name>Ambre Crim</name>
+	</owner>
+	<size>
+		<width>334</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>70</xmin><ymin>56</ymin><xmax>130</xmax><ymax>86</ymax></bndbox></object></annotation>

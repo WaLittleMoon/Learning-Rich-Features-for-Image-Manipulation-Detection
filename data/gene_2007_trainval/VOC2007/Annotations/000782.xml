@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000782.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>318938532</flickrid>
+	</source>
+	<owner>
+		<flickrid>Steve Lippitt</flickrid>
+		<name>Steven Lippitt</name>
+	</owner>
+	<size>
+		<width>330</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>99</xmin><ymin>135</ymin><xmax>212</xmax><ymax>336</ymax></bndbox></object></annotation>

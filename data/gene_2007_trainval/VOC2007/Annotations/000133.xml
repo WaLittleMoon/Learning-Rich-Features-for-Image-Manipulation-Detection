@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000133.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>262750809</flickrid>
+	</source>
+	<owner>
+		<flickrid>ObedientMuse</flickrid>
+		<name>Tami Gramont</name>
+	</owner>
+	<size>
+		<width>447</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>296</xmin><ymin>137</ymin><xmax>446</xmax><ymax>350</ymax></bndbox></object></annotation>

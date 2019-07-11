@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000880.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>321129713</flickrid>
+	</source>
+	<owner>
+		<flickrid>Rob Millenaar</flickrid>
+		<name>Rob Millenaar</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>77</xmin><ymin>189</ymin><xmax>323</xmax><ymax>339</ymax></bndbox></object></annotation>

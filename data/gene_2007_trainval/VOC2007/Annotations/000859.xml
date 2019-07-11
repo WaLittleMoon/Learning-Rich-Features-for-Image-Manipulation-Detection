@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000859.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>329912628</flickrid>
+	</source>
+	<owner>
+		<flickrid>LateNightTV</flickrid>
+		<name>steve</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>204</xmin><ymin>83</ymin><xmax>245</xmax><ymax>183</ymax></bndbox></object></annotation>

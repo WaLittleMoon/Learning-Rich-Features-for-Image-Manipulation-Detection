@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000208.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>298251169</flickrid>
+	</source>
+	<owner>
+		<flickrid>www.devaneos.es</flickrid>
+		<name>Luc?a</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>167</xmin><ymin>222</ymin><xmax>290</xmax><ymax>366</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000926.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>297931566</flickrid>
+	</source>
+	<owner>
+		<flickrid>TR3NT</flickrid>
+		<name>Trent Vanegas</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>31</xmin><ymin>15</ymin><xmax>268</xmax><ymax>249</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000667.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>320946149</flickrid>
+	</source>
+	<owner>
+		<flickrid>Cvalentine</flickrid>
+		<name>Jody with secret alias name Claudine Valentine</name>
+	</owner>
+	<size>
+		<width>434</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>10</xmin><ymin>60</ymin><xmax>247</xmax><ymax>294</ymax></bndbox></object></annotation>

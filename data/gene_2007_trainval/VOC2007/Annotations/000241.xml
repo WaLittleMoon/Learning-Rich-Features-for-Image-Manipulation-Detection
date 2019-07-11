@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000241.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>324175713</flickrid>
+	</source>
+	<owner>
+		<flickrid>moschos</flickrid>
+		<name>Moschos Koupoukis</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>341</xmin><ymin>251</ymin><xmax>442</xmax><ymax>351</ymax></bndbox></object></annotation>

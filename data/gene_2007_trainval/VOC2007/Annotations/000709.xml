@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000709.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>304579171</flickrid>
+	</source>
+	<owner>
+		<flickrid>Golden King</flickrid>
+		<name>Golden King</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>277</xmin><ymin>32</ymin><xmax>448</xmax><ymax>327</ymax></bndbox></object></annotation>

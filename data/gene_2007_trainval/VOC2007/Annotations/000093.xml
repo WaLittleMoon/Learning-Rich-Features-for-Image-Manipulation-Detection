@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000093.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>341178645</flickrid>
+	</source>
+	<owner>
+		<flickrid>mgewalden</flickrid>
+		<name>Matthew Walden</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>11</xmin><ymin>9</ymin><xmax>196</xmax><ymax>253</ymax></bndbox></object></annotation>

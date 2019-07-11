@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000515.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>336381773</flickrid>
+	</source>
+	<owner>
+		<flickrid>aaron.dsouza</flickrid>
+		<name>Aaron D'Souza</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>1</segmented>
+	<object><name>tampered</name><bndbox><xmin>340</xmin><ymin>199</ymin><xmax>362</xmax><ymax>371</ymax></bndbox></object></annotation>

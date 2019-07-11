@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000688.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>295728683</flickrid>
+	</source>
+	<owner>
+		<flickrid>Gert Wagelaar</flickrid>
+		<name>Wagelaar Gert</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>317</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>97</xmin><ymin>18</ymin><xmax>119</xmax><ymax>190</ymax></bndbox></object></annotation>

@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000352.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>334181924</flickrid>
+	</source>
+	<owner>
+		<flickrid>fairy kates</flickrid>
+		<name>Katie Balderstone</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>46</xmin><ymin>175</ymin><xmax>221</xmax><ymax>320</ymax></bndbox></object></annotation>

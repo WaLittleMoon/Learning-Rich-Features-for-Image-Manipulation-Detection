@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000965.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>338609568</flickrid>
+	</source>
+	<owner>
+		<flickrid>running like an antelope</flickrid>
+		<name>jim hutchison</name>
+	</owner>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>244</xmin><ymin>249</ymin><xmax>299</xmax><ymax>305</ymax></bndbox></object></annotation>

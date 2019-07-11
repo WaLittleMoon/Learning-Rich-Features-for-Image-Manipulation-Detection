@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000294.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>337284136</flickrid>
+	</source>
+	<owner>
+		<flickrid>Blake Brunner</flickrid>
+		<name>Blake Brunner</name>
+	</owner>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>363</xmin><ymin>183</ymin><xmax>480</xmax><ymax>363</ymax></bndbox></object></annotation>

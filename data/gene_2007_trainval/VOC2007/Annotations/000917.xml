@@ -1,0 +1,20 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>000917.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>flickr</image>
+		<flickrid>174780817</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fergus of Sop</flickrid>
+		<name>Andy</name>
+	</owner>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>tampered</name><bndbox><xmin>25</xmin><ymin>170</ymin><xmax>145</xmax><ymax>343</ymax></bndbox></object></annotation>
