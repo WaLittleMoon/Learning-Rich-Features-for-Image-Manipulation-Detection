@@ -23,8 +23,8 @@ https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3
 将vgg16网络文件夹下的`.ckpt`文件放在`Learning-Rich-Features-for-Image-Manipulation-Detection/data/imagenet_weights/`文件夹下；
 将训练好的网络参数文件夹下的四个文件放在`Learning-Rich-Features-for-Image-Manipulation-Detection/default/gene_2007_trainval/default/`文件夹下。
 
-将vgg16网络文件夹下的`.ckpt`文件放在`Learning-Rich-Features-for-Image-Manipulation-Detection/data/imagenet_weights/`文件夹下；
-直接运行`双流Faster R-CNN.ipynb`文件。
+
+然后直接运行`双流Faster R-CNN.ipynb`文件。
 
 ### 运行异常处理
 
