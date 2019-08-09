@@ -3,7 +3,7 @@
 
 # 代码说明
 
-本人学习能力和资源实在有限，所以本实验主要是对**[dBeker](https://github.com/dBeker)**的**Faster-RCNN-TensorFlow-Python3**GitHub仓库代码进行学习和一定的修改，从而实现了双流篡改检测。
+本实验主要是对**[dBeker](https://github.com/dBeker)**的**Faster-RCNN-TensorFlow-Python3**GitHub仓库代码进行学习和一定的修改，从而实现了双流篡改检测。
 
 参考链接：
 
